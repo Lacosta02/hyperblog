@@ -2,6 +2,6 @@ Esta es la historia de Mariano Acosta
 
 Tiene 20 años y nacio en Argentina
 
-Esta aprendiendo programacion con Python
+Esta aprendiendo programacion con Python 3
 
 Parece mas petiso de lo que es
